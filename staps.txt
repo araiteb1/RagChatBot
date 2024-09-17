@@ -6,3 +6,5 @@ pip install chromadb
 pip install sentence-transformers
 pip install google-generativeai
 pip install pypdf
+pip install -U langchain-chroma
+pip install -U langchain-huggingface
