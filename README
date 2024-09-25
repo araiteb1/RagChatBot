@@ -1,0 +1,14 @@
+# Mini RAG Chatbot
+
+
+This project implements a mini Retrieval-Augmented Generation (RAG) chatbot that answers user queries by leveraging information from PDF documents. It utilizes LangChain, Chroma, and Google Gemini API to provide comprehensive and user-friendly responses.
+
+## Features
+
+- Load and parse PDF documents.
+- Split text into manageable chunks.
+- Generate embeddings with a pre-trained model.
+- Efficiently store and retrieve relevant documents.
+- Generate conversational responses using generative AI.
+
+
